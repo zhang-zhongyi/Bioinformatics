@@ -1,0 +1,9 @@
+52      Wang J
+45      Zhang Y
+44      Wang Y
+40      Zhang J
+38      Aebersold R
+38      Wang X
+33      Chen Y
+32      Liu Y
+32      Zhang X

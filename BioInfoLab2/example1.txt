@@ -1,0 +1,68 @@
+
+1. Proc Natl Acad Sci U S A. 1984 Jun;81(11):3302-6.
+
+Cathepsin D-mediated processing of procollagen: lysosomal enzyme involvement in
+secretory processing of procollagen.
+
+Helseth DL Jr, Veis A.
+
+The proteolytic removal of the extension COOH-terminal propeptide from
+procollagen has been examined in vitro. A crude enzyme activity was identified in
+a whole-chicken-embryo extract that acted at acid pH and appeared to be similar
+to one identified previously [Davidson, J. M., McEneany , L. S. G. & Bornstein , 
+P. (1979) Eur. J. Biochem. 100, 551-558]. This activity was inhibitable by
+pepstatin but not by leupeptin, suggesting that it might be cathepsin D.
+Cathepsin D was purified 907-fold from chicken livers by affinity chromatography 
+on pepstatin-aminohexyl-Sepharose 4B and was found to remove the COOH propeptides
+from procollagen. At pH 6.0, the site of cleavage appeared to shift from the COOH
+telopeptide to the COOH telopeptide/propeptide junction, based upon the
+difference in electrophoretic migration of the cleavage products, although
+determining the actual cleavage site will require end-group analysis. A model for
+the involvement of cathepsin D in the in vivo processing of procollagen is
+presented.
+
+
+PMCID: PMC345495
+PMID: 6587351  [Indexed for MEDLINE]
+
+
+2. J Biol Chem. 1981 Jul 25;256(14):7118-28.
+
+Collagen self-assembly in vitro. Differentiating specific telopeptide-dependent
+interactions using selective enzyme modification and the addition of free amino
+telopeptide.
+
+Helseth DL Jr, Veis A.
+
+The thermally induced in vitro self-assembly of collagen molecules to form active
+fibrils illustrates that collagen molecules themselves contain all of the
+structural information necessary for assembly. The molecule contains three
+structural domains, the NH2 and carboxyl-terminal extra helical regions (the
+telopeptides) and the major triple helical rod-like domain. Proteolytic removal
+of the short telopeptide domains drastically alters the in vitro self-assembly
+process. We have examined the specific contributions of each telopeptide to the
+initiation ("nucleation") and growth stages of self-assembly in collagens
+modified by selective proteinase treatment and by isolating a peptide containing 
+the amino telopeptide and adding this to both normal and proteinase-modified
+collagen self-assembly systems. Pronase-modified collagen, devoid of both
+telopeptides, initiated self-assembly very poorly. Addition of small amounts of
+intact collagen accelerated the rate of nucleation of pronase-modified collagen. 
+Addition of carboxypeptidase-modified collagen also accelerated the nucleation of
+pronase-modified collagen, suggesting that the remaining amino telopeptide was
+involved in nucleation. This was confirmed by isolating the cyanogen bromide
+fragment of the alpha 1(I) subunit containing the amino telopeptide and finding
+that it specifically accelerated the nucleation of intact pepsin- and
+pronase-modified to collagens. The amino telopeptide appears to bind to a
+specific region within the collagen triple helical domain. The isolated peptide
+requires thermal pretreatment to be active; hence, this interaction must involve 
+a unique telopeptide conformation. This behavior is compatible with the recent
+model (Helseth, D. L., Jr., Lechner, J. H., and Veis, A. (1979) Biopolymers 18,
+3005-3014) proposed for the conformation of the amino telopeptide and its
+interaction with a helical receptor site as a step in nucleation. Comparison of
+the behavior of leucine aminopeptidase- and carboxypeptidase-modified collagens
+suggests that the carboxyl telopeptide has its major role in the growth stages of
+self-assembly.
+
+
+PMID: 7251588  [Indexed for MEDLINE]
+
